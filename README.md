@@ -23,7 +23,6 @@
 **Front-end:**
 
 - React
-- Redux
 
 **Back-end:**
 
